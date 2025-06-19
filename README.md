@@ -1,7 +1,11 @@
 # AudioImage 🎧🖼️
 
 This project encodes images into sound (WAV) and decodes them back into grayscale images using Goertzel frequency detection.
-
+(Hobby project)
+Not meant for commercial even my decoder is not working . stay way from this in aany usecases
+i am not a software guy 
+Hmm, what i am saying it is mostly intended to use in AM transmission (my initial project was shared in linkedin.com
+)
 ## Usage
 
 ### Encode:
